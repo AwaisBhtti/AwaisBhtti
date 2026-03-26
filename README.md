@@ -27,7 +27,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
   <img width="12" />
-  <img 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="40" alt="postgresql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="postgresql logo" />
@@ -45,8 +44,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AwaisBhtti&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dark" height="150" alt="stats graph" />
   <img width="10" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AwaisBhtti&layout=compact&langs_count=5&theme=dark" height="150" alt="languages graph" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AwaisBhtti&layout=compact&theme=dark&langs_count=5&count_private=true&include_all_commits=true" height="150" />
   <br>
   <br>
 
