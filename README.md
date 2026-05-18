@@ -50,5 +50,6 @@
 
   <img src="https://streak-stats.demolab.com?user=AwaisBhtti&locale=en&mode=daily&theme=dark&border_radius=5" height="150" alt="streak graph" />
 </div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AwaisBhtti&bg_color=121212&color=059669&line=059669&point=ffffff&area=true&hide_border=true&hide_title=true"/>
 
 <br>
