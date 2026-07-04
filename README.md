@@ -2,7 +2,7 @@
   <h1><strong>About Me:</strong></h1>
   <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2IxN2x2eGdtZHgzcWM5aGVndXhzbHVqdWZ3bGt3cjdzem8xejl6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1qErVv5GVUac8uqBJU/giphy.gif" />
   <br>
-  <p>Junior at FAST NUCES, Lahore. Passionate about full-stack development, backend solutions, desktop applications using React, Node.js, and .NET. Game development in C/C++ and Android app development in Java/Kotlin.</p>
+  <p>Senior at FAST NUCES, Lahore. Passionate about full-stack development, backend solutions, desktop applications using React, Node.js, and .NET. Game development in C/C++ and Android app development in Java/Kotlin.</p>
 </div>
 
 ## Tech Stack:
