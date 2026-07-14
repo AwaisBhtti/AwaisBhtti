@@ -55,13 +55,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AwaisBhtti&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dark" height="150" alt="stats graph" />
-  <img width="10" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AwaisBhtti&layout=compact&theme=dark&langs_count=5&count_private=true&include_all_commits=true" height="150" />
-  <br>
-  <br>
-
-  <img src="https://streak-stats.demolab.com?user=AwaisBhtti&locale=en&mode=daily&theme=dark&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://ghstats.dev/api/card?username=AwaisBhtti&theme=dark" height="300" alt="stats graph" />
 </div>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AwaisBhtti&bg_color=121212&color=059669&line=059669&point=ffffff&area=true&hide_border=true&hide_title=true"/>
 
