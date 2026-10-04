@@ -57,6 +57,5 @@
 <div align="center">
   <img src="https://ghstats.dev/api/card?username=AwaisBhtti&theme=dark" height="300" alt="stats graph" />
 </div>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AwaisBhtti&bg_color=121212&color=059669&line=059669&point=ffffff&area=true&hide_border=true&hide_title=true"/>
 
 <br>
